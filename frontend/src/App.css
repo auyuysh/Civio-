@@ -1,0 +1,9 @@
+.app-container {
+  min-height: 100vh;
+  background: var(--bg-light);
+}
+
+.blur {
+  filter: blur(8px);
+  pointer-events: none;
+}
